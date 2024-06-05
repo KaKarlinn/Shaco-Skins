@@ -19,4 +19,5 @@ Interatividade: Criar uma interface interativa onde os usuários possam navegar 
 Por esse link você conseguirá baixar o projeto em sua máquina [link repositório](https://github.com/KaKarlinn/Shaco-Skins.git) 
 
 Para instalar as dependencias do projeto em sua máquina execute o comando `npm install`
+
 Após instala-las execute o projeto em sua máquina utilizando o comando `npm run dev`
