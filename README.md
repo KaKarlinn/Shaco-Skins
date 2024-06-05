@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 Por esse link você conseguirá baixar o projeto em sua máquina [link repositório](https://github.com/KaKarlinn/Shaco-Skins.git) 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Para instalar as dependencias do projeto em sua máquina execute o comando `npm install`
 
 - Configure the top-level `parserOptions` property like this:
 
